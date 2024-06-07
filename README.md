@@ -22,8 +22,4 @@ If this is your first Flutter project, here are some resources to get you starte
 View [online Flutter documentation](https://flutter.dev/docs) that offers tutorials, samples, guidance on mobile development and a full API reference.
 
  
-## Have questions?
-
-If you have any questions or something is missing in the documentation:
-- Join [Alan AI Slack community](https://app.slack.com/client/TL55N530A) for support
-- Contact us at [support@alan.app](mailto:support@alan.app)
+* azimjaan21 *
